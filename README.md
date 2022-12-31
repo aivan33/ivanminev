@@ -8,7 +8,10 @@ Academically, I am focused on *Algorithmic game theory and the use of utility th
 
 Skills: Python / MEAN 📚
 
-- 📫 How to reach me: s 
+📫 How to reach me:
+- twitter
+- gmail
+- linkedin
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aivan33)  
 
