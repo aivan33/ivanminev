@@ -12,6 +12,3 @@ Skills: Python / MEAN 📚
 - twitter
 - gmail
 - linkedin
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aivan33)  
-
