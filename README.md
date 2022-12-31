@@ -1,7 +1,14 @@
-### 👋
+### Hi there 👋,
+#### Working at the intersection of Economics & CS
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aivan33&show_icons=true)  
 
-My Ivan Minev, <<pos>> from Bulgaria. My academical journey studying CS and Economics developed solid fundamentals in <<statistics, data modelling, etc>>. I also have a passion for design, which has lead me to explore the world of wireframing, UI/UX and web design in general. 
+Actively developing *{Amberd, Dplatform}* as pursuits of my passion for design and product development. **Track my progress.**
 
-Social Media: <<links>>
+Academically, I am focused on *Algorithmic game theory and the use of utility theory in becoming a self-thought developer* (Blog link)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aivan33)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Python / MEAN 📚
+
+- 📫 How to reach me: s 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aivan33)  
+
