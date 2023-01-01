@@ -10,5 +10,5 @@ Skills: Python / MEAN 📚
 
 📫 How to reach me:
 - iminev04@gmail.com
-- https://twitter.com/amberedhedge
-- linkedin.com/in/ivan-minev-539472158/
+- [Twitter](https://twitter.com/amberedhedge)
+- [Linkedin](https://www.linkedin.com/in/ivan-minev-539472158/)
