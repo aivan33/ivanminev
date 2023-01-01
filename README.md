@@ -4,11 +4,11 @@
 
 Actively developing *{Amberd, Dplatform}* as pursuits of my passion for design and product development. **Track my progress.**
 
-Academically, I am focused on *Algorithmic game theory and the use of utility theory in becoming a self-thought developer* (Blog link)
+Academically, I am focused on *Algorithmic game theory and portfolio theory //the use of utility theory in becoming a self-thought developer* (Blog link)
 
 Skills: Python / MEAN 📚
 
 📫 How to reach me:
-- twitter
-- gmail
-- linkedin
+- iminev04@gmail.com
+- https://twitter.com/amberedhedge
+- linkedin.com/in/ivan-minev-539472158/
